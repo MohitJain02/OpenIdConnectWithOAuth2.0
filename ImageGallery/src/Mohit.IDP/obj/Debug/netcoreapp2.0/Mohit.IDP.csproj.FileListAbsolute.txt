@@ -1,0 +1,8 @@
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\Mohit.IDP\bin\Debug\netcoreapp2.0\Mohit.IDP.deps.json
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\Mohit.IDP\bin\Debug\netcoreapp2.0\Mohit.IDP.runtimeconfig.json
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\Mohit.IDP\bin\Debug\netcoreapp2.0\Mohit.IDP.runtimeconfig.dev.json
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\Mohit.IDP\bin\Debug\netcoreapp2.0\Mohit.IDP.dll
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\Mohit.IDP\obj\Debug\netcoreapp2.0\Mohit.IDP.csprojAssemblyReference.cache
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\Mohit.IDP\obj\Debug\netcoreapp2.0\Mohit.IDP.csproj.CoreCompileInputs.cache
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\Mohit.IDP\obj\Debug\netcoreapp2.0\Mohit.IDP.AssemblyInfoInputs.cache
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\Mohit.IDP\obj\Debug\netcoreapp2.0\Mohit.IDP.AssemblyInfo.cs

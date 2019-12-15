@@ -1,0 +1,9 @@
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\ImageGallery.Model\bin\Debug\netcoreapp2.0\ImageGallery.Model.deps.json
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\ImageGallery.Model\bin\Debug\netcoreapp2.0\ImageGallery.Model.dll
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\ImageGallery.Model\bin\Debug\netcoreapp2.0\ImageGallery.Model.pdb
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\ImageGallery.Model\obj\Debug\netcoreapp2.0\ImageGallery.Model.csprojAssemblyReference.cache
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\ImageGallery.Model\obj\Debug\netcoreapp2.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\ImageGallery.Model\obj\Debug\netcoreapp2.0\ImageGallery.Model.AssemblyInfoInputs.cache
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\ImageGallery.Model\obj\Debug\netcoreapp2.0\ImageGallery.Model.AssemblyInfo.cs
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\ImageGallery.Model\obj\Debug\netcoreapp2.0\ImageGallery.Model.dll
+E:\Technical_samples\OpenIdConnect+OAuth2.0\ImageGallery\src\ImageGallery.Model\obj\Debug\netcoreapp2.0\ImageGallery.Model.pdb
